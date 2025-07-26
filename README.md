@@ -6,7 +6,7 @@ I specialize in building tools that projects that combine data analysis with sof
 
 ## 💻 Core Themes
 
-- **Applied Statistics** — Forecasting, indicator tracking, data cleaning, and public reporting
+- **Applied Statistics** — Statistical modelling, indicator tracking, data cleaning, and public reporting
 - **Software Development** — Automating analytics workflows, creating user interfaces, integrating APIs
 - **Dashboarding & Storytelling** — Using Tableau, python, and R Shiny to make data interactive
 
